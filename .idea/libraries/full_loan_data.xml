@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="full_loan_data">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/15-Chapter-15/data/full_loan_data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
